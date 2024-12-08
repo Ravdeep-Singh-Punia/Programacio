@@ -1,0 +1,6 @@
+Comanda1.31
+art1.Patates.2.10.20
+art2.Tomaquet.3.3.9
+art3.Pebrot.1.2.2
+Comanda2.10
+art1.Patates.1.10.10
